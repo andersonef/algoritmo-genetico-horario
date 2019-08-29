@@ -1,0 +1,24 @@
+{
+  "name": "algoritmo-genetico-horario",
+  "version": "1.0.0",
+  "description": "Genetic algorythm to calculate the best grade for a school class",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andersonef/algoritmo-genetico-horario.git"
+  },
+  "keywords": [
+    "algoritmo",
+    "genetico",
+    "javascript"
+  ],
+  "author": "Anderson N. Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andersonef/algoritmo-genetico-horario/issues"
+  },
+  "homepage": "https://github.com/andersonef/algoritmo-genetico-horario#readme"
+}
